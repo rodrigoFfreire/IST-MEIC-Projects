@@ -6,3 +6,4 @@
    * [Desenvolvimento de Aplicações Ditribuídas](https://github.com/rodrigoFfreire/DAD-25-26) _(Design and Implementation of Distributed Applications)_
    * [Introdução à Robótica](https://github.com/rodrigoFfreire/IRobo-25-26) _(Introduction to Robotics)_
    * [Segurança de Software](https://github.com/rodrigoFfreire/SSof-25-26) _(Software Security)_
+   * [Aprendizagem Profunda](https://github.com/rodrigoFfreire/AP-Homeworks-25-26) _(Deep Learning)_
